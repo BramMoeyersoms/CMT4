@@ -1,0 +1,15 @@
+{
+  "name": "moeyersoms_bram_opdracht3",
+  "version": "1.0.0",
+  "description": "This is an excercise for school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moeyersoms Bram",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}

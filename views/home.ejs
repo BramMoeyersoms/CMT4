@@ -1,0 +1,57 @@
+<%- include("header"); -%>
+<div class="bannerhome">
+</div>
+<main>
+    <h1>Het <br>Thuis- <br>Museum</h1>
+    <h2>Bram Moeyersoms</h2>
+    <div class="spacer">
+    </div>
+    <h2 class="paragraaftitel">Kunst in huis</h2>
+    <p>Op heel wat plaatsen kan je kunstwerken bekijken. In musea, parken, tentoonstellingen .. Maar ook in je eigen huis is er heel wat kunst te vinden. Een boek dat je kocht na het bezoeken van een tentoonstelling, een postkaart die je aankreeg, een poster uit de giftshop van een museum. Kortweg een schat aan kunstwerken. Met deze app stel ik de werken voor van mijn eigen “privé collectie”.</p>
+    <p>Het is een interessante tentoonstelling van verschillende moderne en hedendaagse kunstwerken. De werken zijn terug te vinden in drie zalen, De Woonkamer, De Hal en De Zolderkamer. Je kan de zalen van elkaar onderscheiden door de verschillende achtergronden bij de extra foto’s.</p>
+    <p>Hopelijk spreken de werken je aan en nodigt dit je uit om zelf eens opzoek te gaan naar de kunst verborgen in je eigen huis.</p>
+
+    <div class="spacer">
+    </div>
+    <h2 class="paragraaftitel">In de kijker</h2>
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="<%=gallery[0].imageURL%>" alt="Foto van <%=gallery[0].titel%>">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="<%=gallery[3].imageURL%>" alt="Foto van <%=gallery[3].titel%>">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="<%=gallery[4].imageURL%>" alt="Foto van <%=gallery[4].titel%>">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="<%=gallery[7].imageURL%>" alt="Foto van <%=gallery[7].titel%>">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="<%=gallery[12].imageURL%>" alt="Foto van <%=gallery[12].titel%>">
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <div class="dots">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+
+    <button type="button" name="button" class="bekijk"><a href="/gallery">Bekijk volledige collectie</a></button>
+
+</main>
+
+
+<script src="/js/slideshow.js"></script>
+<%- include("footer"); -%>
