@@ -1,3 +1,5 @@
+/* opmaak gemaakt voor schermbreedte 375px */
+
 * {
   box-sizing: border-box;
 }
@@ -257,14 +259,6 @@ button {
   overflow: scroll;
 }
 
-/* .zone2 {
-  display: none;
-}
-
-.visible {
-  display: visible;
-} */
-
 .fotokader a {
   color: #474747;
   text-decoration: none;
@@ -331,7 +325,7 @@ input {
 
 .cirkelbuiten {
   width: 13rem;
-  height: 12.5rem;
+  height: 13rem;
   background-color: #EEEEEE;
   box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.2), -0.2rem -0.2rem 0.5em rgba(255, 255, 255, 1);
   margin: 0rem auto 2rem;
