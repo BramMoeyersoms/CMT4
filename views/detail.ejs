@@ -1,0 +1,26 @@
+<%- include("header"); -%>
+    <main>
+        <div class="detailpagina">
+              <button type="button" name="button"><a href="/gallery" class="link">Terug</a></button>
+              <h3><%=gallery[0].titel%></h3>
+              <h4><%=gallery[0].artist%></h4>
+              <img src="<%=gallery[0].imageURL%>" alt="Foto van <%=gallery[0].titel%>">
+              <div class="extrainfo">
+                <h5>Details</h5>
+                <p><strong>Omschrijving: </strong><%=gallery[0].description%></p>
+                <p><strong>Datum: </strong><%=gallery[0].date%></p>
+                <p><strong>Periode: </strong><%=gallery[0].period%></p>
+                <p><strong>Thuis vorm: </strong><%=gallery[0].printedOn%></p>
+                <p><strong>Plaats van originele werk: </strong><%=gallery[0].placeOfOriginalWork%></p>
+                <p><strong>Zaal: </strong><%=gallery[0].room%></p>
+              </div>
+              <h5>Meer foto's</h5>
+              <img src="<%=gallery[0].image2URL%>" alt="Foto van <%=gallery[0].titel%>">
+              <img src="<%=gallery[0].image3URL%>" alt="Foto van <%=gallery[0].titel%>">
+              <img src="<%=gallery[0].image4URL%>" alt="Foto van <%=gallery[0].titel%>">
+        </div>
+    </main>
+
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="/js/script.js"></script>
+<%- include("footer"); -%>

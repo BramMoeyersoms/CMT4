@@ -21,6 +21,12 @@ app.get("/gallery", function(request, response){
   });
 });
 
+app.get("/detail", function(request, response){
+  response.render("detail",{
+    gallery: data.art
+  });
+});
+
 app.get("/search", function(request, response){
   response.render("search");
 });

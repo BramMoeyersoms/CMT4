@@ -14,12 +14,12 @@
 
     <div class="galerijfotos">
       <% for (var i = 0; i < gallery.length; i++) { %>
-        <div class="fotokader element-item <%=gallery[i].roomFilter%>">
+        <div class="fotokader element-item <%=gallery[i].roomFilter%>"">
             <div class="zone1">
               <img src="<%=gallery[i].imageURL%>" alt="Foto van <%=gallery[i].titel%>">
               <h3><%=gallery[i].titel%></h3>
               <h4><%=gallery[i].artist%></h4>
-              <button type="button" name="button" class="toonMeer">Meer info<br><i class="material-icons">expand_more</i></button>
+              <button type="button" name="button" class="toonMeer"><a href="/detail">Meer info</a><br><i class="material-icons">expand_more</i></button>
             </div>
             <div class="zone2">
               <div class="extrainfo">
