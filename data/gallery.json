@@ -1,6 +1,6 @@
 {
   "art": [{
-    "imageURL": "/img/foto1.JPG",
+    "imageURL": "/img/foto1.jpg",
     "titel": "I enter another dimetion",
     "artist": "Rinus Van de Velde",
     "description": "190 x 170 cm, houtskool op canvas",
@@ -14,7 +14,7 @@
     "image3URL": "/img/foto1.3.JPG",
     "image4URL": "/img/foto1.4.JPG"
   },{
-    "imageURL": "/img/foto2.JPG",
+    "imageURL": "/img/foto2.ipg",
     "titel": "I try to shake off the feeling that I'm trapped in this enclosure",
     "artist": "Rinus Van de Velde",
     "description": "70 x 100 cm, houtskool op canvas",
@@ -42,7 +42,7 @@
     "image3URL": "/img/foto3.3.JPG",
     "image4URL": "/img/foto1.4.JPG"
   },{
-    "imageURL": "/img/foto4.JPG",
+    "imageURL": "/img/foto4.jpg",
     "titel": "10AM IS WHEN YOU COME TO ME",
     "artist": "Louise Bourgeois",
     "description": "21 x (41,9 x 95,3 x 3,8 cm), Ets, inkt, waterverf, potlood en gouache op papier",
@@ -56,7 +56,7 @@
     "image3URL": "/img/foto4.3.JPG",
     "image4URL": "/img/foto4.4.JPG"
   },{
-    "imageURL": "/img/foto5.JPG",
+    "imageURL": "/img/foto5.jpg",
     "titel": "Zelfportret",
     "artist": "Fred Bervoets",
     "description": "29 x 20,5 cm, acrylverf op canvas",
@@ -70,7 +70,7 @@
     "image3URL": "/img/foto5.3.JPG",
     "image4URL": "/img/foto5.4.JPG"
   },{
-    "imageURL": "/img/foto6.JPG",
+    "imageURL": "/img/foto6.jpg",
     "titel": "Op weg naar huis",
     "artist": "Fred Bervoets",
     "description": "29 x 20,5 cm, Ets op papier",
@@ -84,7 +84,7 @@
     "image3URL": "/img/foto5.3.JPG",
     "image4URL": "/img/foto5.4.JPG"
   },{
-    "imageURL": "/img/foto7.JPG",
+    "imageURL": "/img/foto7.jpg",
     "titel": "Ik",
     "artist": "Fred Bervoets",
     "description": "42 x 28 x 17 cm, Plaaster en acryl",
@@ -98,7 +98,7 @@
     "image3URL": "/img/foto7.3.JPG",
     "image4URL": "/img/foto5.4.JPG"
   },{
-    "imageURL": "/img/foto8.JPG",
+    "imageURL": "/img/foto8.jpg",
     "titel": "De Windstoot",
     "artist": "Léon Spilliaert",
     "description": "51 x 41 cm, waterverf op papier",
@@ -112,7 +112,7 @@
     "image3URL": "/img/foto8.3.JPG",
     "image4URL": "/img/foto8.4.JPG"
   },{
-    "imageURL": "/img/foto9.JPG",
+    "imageURL": "/img/foto9.jpg",
     "titel": "De witte gewaden",
     "artist": "Léon Spilliaert",
     "description": "90 x 70 cm, zwart krijt, kleurkrijt en gouache op karton",
@@ -126,7 +126,7 @@
     "image3URL": "/img/foto9.3.JPG",
     "image4URL": "/img/foto9.4.JPG"
   },{
-    "imageURL": "/img/foto10.JPG",
+    "imageURL": "/img/foto10.jpg",
     "titel": "De blauwe teil",
     "artist": "Léon Spilliaert",
     "description": "63 x 48 cm, Gewassen Oost-Indische inkt, aquarel en kleurpotlood op papier",
@@ -140,7 +140,7 @@
     "image3URL": "/img/foto10.3.JPG",
     "image4URL": "/img/foto10.4.JPG"
   },{
-    "imageURL": "/img/foto11.JPG",
+    "imageURL": "/img/foto11.jpg",
     "titel": "Zonder titel",
     "artist": "Paul Joostens",
     "description": "32,5 x 58 cm, Gouache, potlood en collage op papier",
@@ -154,7 +154,7 @@
     "image3URL": "/img/foto11.3.JPG",
     "image4URL": "/img/foto11.4.JPG"
   },{
-    "imageURL": "/img/foto12.JPG",
+    "imageURL": "/img/foto12.jpg",
     "titel": "De golfbreker",
     "artist": "Léon Spilliaert",
     "description": "74 x 50 cm, Krijt, potlood en aquarel op papier",
@@ -168,7 +168,7 @@
     "image3URL": "/img/foto12.3.JPG",
     "image4URL": "/img/foto11.4.JPG"
   },{
-    "imageURL": "/img/foto13.JPG",
+    "imageURL": "/img/foto13.jpg",
     "titel": "Maasvallei",
     "artist": "François Marechal",
     "description": "40 x 29,5 cm, Ets",
@@ -182,7 +182,7 @@
     "image3URL": "/img/foto13.3.JPG",
     "image4URL": "/img/foto13.4.JPG"
   },{
-    "imageURL": "/img/foto14.JPG",
+    "imageURL": "/img/foto14.jpg",
     "titel": "De stuurman",
     "artist": "Auguste Mambour",
     "description": "100 x 100 cm, Olieverf op paneel",
